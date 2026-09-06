@@ -12,11 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout the repository so Git commands work
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Generate the snake animation files
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -24,10 +22,7 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Commit and push the generated files back to the repository
       - name: Push snake animation
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
