@@ -1,16 +1,53 @@
-## Hi there 👋
+# Krishna Kant Kumar
 
-<!--
-**krishnakant9/krishnakant9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer
 
-Here are some ideas to get you started:
+I build backend systems, APIs, and integrations with a focus on **reliability, scalability, and correctness under edge cases**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with:
+
+**Node.js · NestJS · TypeScript · PostgreSQL · Redis · AWS**
+
+Interested in:
+
+**Backend Engineering · Distributed Systems · Databases · System Design**
+
+---
+
+## Selected Work
+
+### [DevTinder](https://github.com/krishnakant9/devTinder)
+
+Backend-focused developer networking platform built with Node.js, Express, MongoDB, JWT authentication, AWS SES, and email workflows.
+
+### [Tech-Bite](https://github.com/krishnakant9/Tech-Bite)
+
+A full-stack project exploring application development, product flows, and frontend/backend integration.
+
+### [CreditSea Assignment](https://github.com/krishnakant9/CreditSea-Assignment)
+
+Engineering assignment demonstrating practical problem-solving and implementation skills.
+
+---
+
+## Experience
+
+**Software Engineer · Quickeee**
+
+Working on backend systems, APIs, integrations, and production-oriented engineering problems.
+
+---
+
+## What I Care About
+
+- Designing reliable backend services
+- Building clean and maintainable APIs
+- Database design and performance
+- Caching and distributed systems
+- Handling edge cases and maintaining correctness
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/krishnak20) · [GitHub](https://github.com/krishnakant9)
