@@ -1,9 +1,8 @@
-name: Generate Contribution Snake
+name: Update GitHub Profile
 
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -14,10 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # We added this step to download the repo so it can be committed to
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
+      # ─────────────────────────────────────────────
+      # 🐍 Contribution Snake
+      # ─────────────────────────────────────────────
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -26,9 +27,36 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation
-        uses: EndBug/add-and-commit@v9
+      # ─────────────────────────────────────────────
+      # 📊 GitHub Metrics
+      # ─────────────────────────────────────────────
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
-          message: "chore: update contribution snake"
-          default_author: github_actions
-          add: "output/"
+          filename: output/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: header, activity, community, repositories
+
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          plugin_repositories: yes
+          plugin_repositories_featured: krishnakant9/devTinder,krishnakant9/Tech-Bite,krishnakant9/CreditSea-Assignment
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+
+      # ─────────────────────────────────────────────
+      # 🚀 Commit generated assets
+      # ─────────────────────────────────────────────
+      - name: Commit generated assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub profile visuals"
+          file_pattern: "output/*"
