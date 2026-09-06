@@ -1,363 +1,93 @@
 <div align="center">
 
-<!-- ROBOTIC HERO -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Krishna+Kant+Kumar;Backend+Engineer;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+AWS" alt="Krishna Kant Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=KRISHNA+KANT+KUMAR;BACKEND+ENGINEER+%2F%2F+SYSTEMS;NODE.JS+%7C+NESTJS+%7C+POSTGRESQL+%7C+REDIS;BUILDING+RELIABLE+PRODUCTION+SYSTEMS" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117&color=00F7FF" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=for-the-badge&labelColor=0D1117&color=8A2BE2" />
-
-<br/><br/>
+<p>Backend engineer building reliable, production-grade systems at <a href="https://www.linkedin.com/company/quickeee">Quickeee</a>.</p>
 
 <a href="https://www.linkedin.com/in/krishnak20">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=flat-square&logo=linkedin&logoColor=0D1117" />
 </a>
-&nbsp;
-<a href="https://github.com/krishnakant9">
-<img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<a href="mailto:kkrishnakant20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-39FF14?style=flat-square&logo=gmail&logoColor=0D1117" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ SYSTEM INITIALIZED
-
-<sub>Backend Engineer focused on reliability, scalability and distributed systems.</sub>
-
-</div>
-
-<br/>
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   > whoami                                                ║
-║                                                            ║
-║   Krishna Kant Kumar                                      ║
-║                                                            ║
-║   > role                                                  ║
-║                                                            ║
-║   Backend Engineer                                        ║
-║                                                            ║
-║   > mission                                               ║
-║                                                            ║
-║   Build systems that survive retries, failures, races     ║
-║   and real-world edge cases.                              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🤖 CURRENTLY BUILDING
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ⚙️ BACKEND
-
-Production APIs  
-Scalable services  
-Clean architecture
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 SYSTEMS
-
-Distributed thinking  
-Database design  
-Async workflows
-
-</td>
-<td align="center" width="33%">
-
-### 🔐 RELIABILITY
-
-Idempotency  
-Edge cases  
-Correctness
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🔒 PRODUCTION EXPERIENCE
-
-<div align="center">
-
-## Software Engineer @ Quickeee
-
-<sub>Private Production Codebase</sub>
-
-</div>
-
-I work on backend services, infrastructure, integrations and data systems powering production workflows.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,redis,prisma,docker,aws&theme=dark" />
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🟦 Backend
-
-- Node.js
-- TypeScript
-- NestJS
-- Prisma
-- REST APIs
-- Integrations
-
-</td>
-<td width="50%">
-
-### 🟪 Data & Infra
-
-- PostgreSQL
-- PostGIS
-- Redis
-- BullMQ
-- Docker
-- AWS
-
-</td>
-</tr>
-</table>
-
-### Production Engineering Highlights
-
-```text
-[✓] Async reporting workflows using BullMQ + Redis
-[✓] Complex pricing & Vendor-Funded Discount systems
-[✓] Google Merchant Center synchronization
-[✓] Tally sales / GST voucher integrations
-[✓] Idempotency & partial-delivery handling
-[✓] PostgreSQL + PostGIS + Prisma migrations
-[✓] AWS staging & production infrastructure
-[✓] Production debugging and edge-case testing
-```
-
-<div align="center">
-
-> **"The happy path is easy. Engineering begins when everything else happens."**
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ⚡ DevTinder
-
-<img src="https://img.shields.io/badge/BACKEND-00F7FF?style=flat-square&labelColor=0D1117" />
-
-Developer networking backend focused on authentication, profiles, requests and email workflows.
-
-**STACK**
-
-`Node.js` `Express` `MongoDB` `JWT` `AWS SES`
-
-<br/>
-
-<a href="https://github.com/krishnakant9/devTinder">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<a href="https://devtinder.in.net">
+  <img src="https://img.shields.io/badge/DevTinder-39FF14?style=flat-square&logo=vercel&logoColor=0D1117" />
 </a>
 
-</td>
-<td width="50%" valign="top">
-
-## 🍜 Tech-Bite
-
-<img src="https://img.shields.io/badge/FULL_STACK-8A2BE2?style=flat-square&labelColor=0D1117" />
-
-Application built with emphasis on architecture, security and structured implementation.
-
-**FOCUS**
-
-`Architecture` `Security` `APIs` `Documentation`
-
-<br/>
-
-<a href="https://github.com/krishnakant9/Tech-Bite">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 💳 CreditSea
-
-<img src="https://img.shields.io/badge/ENGINEERING-00F7FF?style=flat-square&labelColor=0D1117" />
-
-Practical engineering assignment demonstrating implementation and backend problem solving.
-
-<br/>
-
-<a href="https://github.com/krishnakant9/CreditSea-Assignment">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-## 🧪 More Projects
-
-<img src="https://img.shields.io/badge/EXPERIMENTS-8A2BE2?style=flat-square&labelColor=0D1117" />
-
-Frontend, e-commerce, React and additional engineering experiments.
-
-<br/>
-
-<a href="https://github.com/krishnakant9?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚙️ TECH MATRIX
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,postgres,mongodb,redis,prisma,aws,docker,git,linux&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Node.js-00F7FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TypeScript-00F7FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/NestJS-8A2BE2?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PostgreSQL-8A2BE2?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Redis-00F7FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-8A2BE2?style=flat-square&labelColor=0D1117" />
-
 </div>
 
----
+<br/>
 
-# 📡 GITHUB TELEMETRY
+## About
 
-<div align="center">
+I'm a backend engineer at **Quickeee**, a quick-commerce startup in Mumbai, where I work on the systems behind catalogue, pricing, and order fulfillment — a NestJS/PostgreSQL platform handling real production traffic.
 
-<img src="./output/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+In my first weeks on the team I've rebuilt an export pipeline into a streaming, queue-backed system, re-architected store-level pricing, diagnosed and fixed a production incident, and shipped integrations with Google Merchant Center and Tally.
 
-</div>
-
----
-
-# 🐍 CONTRIBUTION JOURNEY
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_CORE-CONTRIBUTION_ENGINE-00F7FF?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<img src="./output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated Contribution Snake"/>
+I care about the parts of engineering that show up after the happy path: retries, partial failures, idempotency, and edge cases.
 
 <br/>
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   INITIALIZING CONTRIBUTION PROTOCOL...      │
-│                                              │
-│   STATUS      : ONLINE                       │
-│   ENGINE      : ACTIVE                       │
-│   LOOP        : BUILD → LEARN → IMPROVE      │
-│   POWER       : OPEN SOURCE                  │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+## What I work on
 
-### ⚡ Every square is a step forward.
-
-</div>
-
----
-
-# 🧠 ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### FAIL
-
-Design for failure.
-
-</td>
-<td align="center" width="25%">
-
-### RETRY
-
-Make retries safe.
-
-</td>
-<td align="center" width="25%">
-
-### RACE
-
-Expect concurrency.
-
-</td>
-<td align="center" width="25%">
-
-### RECOVER
-
-Handle partial success.
-
-</td>
-</tr>
-</table>
+**Backend & APIs** — Node.js, NestJS, TypeScript, REST API design, service architecture
+**Data & infra** — PostgreSQL, PostGIS, Prisma, Redis, BullMQ, Docker, AWS (RDS, S3, EC2, Secrets Manager, SSM)
+**Integrations** — Google Merchant API, Tally (GST-aware accounting sync), Unicommerce (WMS/OMS)
 
 <br/>
 
-> **BUILD SYSTEMS. NOT JUST FEATURES.**
+## Recent work at Quickeee
 
+- Rebuilt a synchronous CSV export feature into a streaming, BullMQ-backed pipeline with a column-selection registry — new report types now ship without database migrations
+- Re-architected store-level pricing around purchase orders and a scoped (Global/City/Store) discount engine
+- Diagnosed a production incident blocking purchase-order creation down to two independent root causes across two services
+- Built a Google Merchant Center sync module — weekly full-catalogue sync plus a real-time outbox for price/stock/lifecycle changes
+- Shipped two live Tally accounting integrations, including a GST-aware (CGST/SGST/IGST) purchase-voucher pipeline
+
+<br/>
+
+## Tech stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,postgres,mongodb,redis,prisma,aws,docker,git,linux&theme=dark" />
 </div>
 
----
+<br/>
+
+## Featured projects
+
+**[DevTinder](https://github.com/krishnakant9/devTinder)** — [live](https://devtinder.in.net) — A developer-networking platform with a swipe-based matching interface, real-time chat over WebSockets, and JWT-secured REST APIs. Deployed on AWS EC2 behind Cloudflare.
+`React` `Node.js` `MongoDB` `Socket.IO` `AWS EC2`
+
+**[Tech-Bite](https://github.com/krishnakant9/Tech-Bite)** — Full-stack application built with a focus on clean architecture, security, and well-documented APIs.
+
+**[CreditSea Assignment](https://github.com/krishnakant9/CreditSea-Assignment)** — A backend engineering assignment focused on practical problem-solving and implementation.
+
+More on my [repositories page →](https://github.com/krishnakant9?tab=repositories)
+
+<br/>
+
+## GitHub stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnakant9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakant9&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+</div>
+
+<br/>
+
+## Currently
+
+Studying for stronger system-design fundamentals, and looking to go deeper on distributed systems and database internals. Open to conversations about backend architecture or quick-commerce.
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILD-00F7FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LEARN-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/IMPROVE-00F7FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/REPEAT-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/krishnak20">LinkedIn</a> · <a href="https://github.com/krishnakant9">GitHub</a>
+<a href="https://www.linkedin.com/in/krishnak20">LinkedIn</a> · <a href="mailto:kkrishnakant20@gmail.com">Email</a> · <a href="https://devtinder.in.net">DevTinder</a>
 
 </div>
