@@ -14,6 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # We added this step to download the repo so it can be committed to
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
