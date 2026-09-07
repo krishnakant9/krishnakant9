@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Krishna+Kant+Kumar;Backend+Engineer;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+AWS" alt="Krishna Kant Kumar" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=100000&color=39FF14&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Krishna+Kant+Kumar" alt="Krishna Kant Kumar" />
 
-<p>Backend engineer building reliable, production-grade systems at <a href="https://www.linkedin.com/company/quickeee">Quickeee</a>.</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%40+Quickeee;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+AWS;Shipping+retries%2C+idempotency%2C+and+edge+cases;Open+to+backend+%2F+systems+design+chats" alt="Typing SVG" />
+
+<p>
+Backend engineer building reliable, production-grade systems at
+<a href="https://www.linkedin.com/company/quickeee"><b>Quickeee</b></a>.
+</p>
 
 <a href="https://www.linkedin.com/in/krishnak20">
-  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=flat-square&logo=linkedin&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:kkrishnakant20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-39FF14?style=flat-square&logo=gmail&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://devtinder.in.net">
-  <img src="https://img.shields.io/badge/DevTinder-39FF14?style=flat-square&logo=vercel&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/DevTinder-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117" />
 </a>
 
 </div>
@@ -30,19 +35,21 @@ I care about the parts of engineering that show up after the happy path: retries
 
 ## What I work on
 
-**Backend & APIs** — Node.js, NestJS, TypeScript, REST API design, service architecture
-**Data & infra** — PostgreSQL, PostGIS, Prisma, Redis, BullMQ, Docker, AWS (RDS, S3, EC2, Secrets Manager, SSM)
-**Integrations** — Google Merchant API, Tally (GST-aware accounting sync), Unicommerce (WMS/OMS)
+| | |
+|---|---|
+| **Backend & APIs** | Node.js, NestJS, TypeScript, REST API design, service architecture |
+| **Data & infra** | PostgreSQL, PostGIS, Prisma, Redis, BullMQ, Docker, AWS (RDS, S3, EC2, Secrets Manager, SSM) |
+| **Integrations** | Google Merchant API, Tally (GST-aware accounting sync), Unicommerce (WMS/OMS) |
 
 <br/>
 
 ## Recent work at Quickeee
 
-- Rebuilt a synchronous CSV export feature into a streaming, BullMQ-backed pipeline with a column-selection registry — new report types now ship without database migrations
-- Re-architected store-level pricing around purchase orders and a scoped (Global/City/Store) discount engine
-- Diagnosed a production incident blocking purchase-order creation down to two independent root causes across two services
-- Built a Google Merchant Center sync module — weekly full-catalogue sync plus a real-time outbox for price/stock/lifecycle changes
-- Shipped two live Tally accounting integrations, including a GST-aware (CGST/SGST/IGST) purchase-voucher pipeline
+- 🔄 Rebuilt a synchronous CSV export feature into a streaming, BullMQ-backed pipeline with a column-selection registry — new report types now ship without database migrations
+- 💰 Re-architected store-level pricing around purchase orders and a scoped (Global/City/Store) discount engine
+- 🐛 Diagnosed a production incident blocking purchase-order creation down to two independent root causes across two services
+- 🛒 Built a Google Merchant Center sync module — weekly full-catalogue sync plus a real-time outbox for price/stock/lifecycle changes
+- 📊 Shipped two live Tally accounting integrations, including a GST-aware (CGST/SGST/IGST) purchase-voucher pipeline
 
 <br/>
 
@@ -56,26 +63,62 @@ I care about the parts of engineering that show up after the happy path: retries
 
 ## Featured projects
 
-**[DevTinder](https://github.com/krishnakant9/devTinder)** — [live](https://devtinder.in.net) — A developer-networking platform with a swipe-based matching interface, real-time chat over WebSockets, and JWT-secured REST APIs. Deployed on AWS EC2 behind Cloudflare.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DevTinder](https://github.com/krishnakant9/devTinder)** · [live ↗](https://devtinder.in.net)
+
+A developer-networking platform with a swipe-based matching interface, real-time chat over WebSockets, and JWT-secured REST APIs. Deployed on AWS EC2 behind Cloudflare.
+
 `React` `Node.js` `MongoDB` `Socket.IO` `AWS EC2`
 
-**[Tech-Bite](https://github.com/krishnakant9/Tech-Bite)** — Full-stack application built with a focus on clean architecture, security, and well-documented APIs.
+</td>
+<td width="50%" valign="top">
 
-**[CreditSea Assignment](https://github.com/krishnakant9/CreditSea-Assignment)** — A backend engineering assignment focused on practical problem-solving and implementation.
+**[Tech-Bite](https://github.com/krishnakant9/Tech-Bite)**
 
-More on my [repositories page →](https://github.com/krishnakant9?tab=repositories)
+Full-stack application built with a focus on clean architecture, security, and well-documented APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[CreditSea Assignment](https://github.com/krishnakant9/CreditSea-Assignment)**
+
+A backend engineering assignment focused on practical problem-solving and implementation.
+
+</td>
+<td width="50%" valign="top">
+
+More of my work lives on the [repositories page →](https://github.com/krishnakant9?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnakant9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakant9&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnakant9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=39FF14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakant9&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+<img height="165" src="https://streak-stats.demolab.com?user=krishnakant9&hide_border=true&background=0D1117&ring=39FF14&fire=58A6FF&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="./output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 <br/>
