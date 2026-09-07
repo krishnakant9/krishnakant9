@@ -62,10 +62,16 @@ Backend engineering assignment focused on practical problem-solving and implemen
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=krishnakant9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=58A6FF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakant9&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=krishnakant9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=58A6FF" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnakant9&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8" />
 
 <img height="160" src="https://streak-stats.demolab.com?user=krishnakant9&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=8B949E&dates=8B949E" />
+
+</div>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-3d.svg" width="100%" alt="3D contribution calendar" />
 
 </div>
 
